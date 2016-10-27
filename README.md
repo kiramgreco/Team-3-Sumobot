@@ -55,6 +55,8 @@ With the understanding that:
 
 ## Credits
 
+Serves as a branch to https://github.com/mronemous/sumobot
+
 Heavily inspired by
 
 <img src="https://github.com/makenai/sumobot-jr/raw/master/assets/amalgamation.png">
